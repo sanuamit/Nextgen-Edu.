@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "mock_1",
+    "title": "The Complete 2026 Web Development Bootcamp",
+    "description": "Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB, build real projects.",
+    "category": "Web Development",
+    "price": 89.99,
+    "instructor": "mock_instructor_1",
+    "createdAt": "2026-03-15T10:00:00Z"
+  },
+  {
+    "_id": "mock_2",
+    "title": "Advanced UI/UX Design with Figma",
+    "description": "Learn modern design principles, wireframing, prototyping, and how to hand off designs to developers.",
+    "category": "Design",
+    "price": 49.99,
+    "instructor": "mock_instructor_2",
+    "createdAt": "2026-04-01T14:30:00Z"
+  }
+]
